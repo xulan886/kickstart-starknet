@@ -12,6 +12,7 @@ cleanup = [
         "{{project_name}}/.github/workflows/test.yml",
     ] },
 ]
+bcvbc
 
 [[variables]]
 name = "project_name"
